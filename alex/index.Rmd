@@ -1,0 +1,66 @@
+---
+title       : My Slidify Presentation
+subtitle    : this is the slides of my apps
+author      : alex
+job         : IT consultant
+framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+
+
+## What is my app?
+
+1. 
+2. 
+3. 
+
+```{r, echo=TRUE}
+x = 1
+y = 1
+x+y
+
+```
+
+
+
+
+--- .class #id 
+
+## How does it work?
+
+1. 
+2. 
+3. 
+
+
+--- .class #id 
+
+## Why I come up with this app?
+
+1. 
+2. 
+3. 
+
+
+--- .class #id 
+
+
+## Product Vision and Release schedule
+
+1. 
+2. 
+3. 
+
+--- .class #id 
+
+## Suggestions and Feedback.
+
+1. 
+2. 
+3. 
+
